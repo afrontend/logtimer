@@ -4,16 +4,15 @@
 ## Installation
 
 ```sh
-$ npm install --save logtimer
+$ npm install -g logtimer
 ```
 
 ## Usage
 
-```js
-const logtimer = require('logtimer');
-
-logtimer('Rainbow');
+```sh
+$ adb logcat | logtimer
 ```
+
 ## License
 
 MIT © [Bob Hwang](https://agvim.wordpress.com/)
