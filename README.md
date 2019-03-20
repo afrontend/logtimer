@@ -10,7 +10,9 @@ $ npm install -g logtimer
 ## Usage
 
 ```sh
-$ adb logcat | logtimer
+$ adb logcat | logtimer -m chrome
+$ adb logcat | logtimer -d > test.json
+$ adb logcat | logtimer -f test.json
 ```
 
 ## License

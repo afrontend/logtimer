@@ -72,5 +72,8 @@
   "dependencies": {
     "cli": "^1.0.1",
     "moment": "^2.24.0"
+  },
+  "engines": {
+    "node": ">=8.0.0"
   }
 }
