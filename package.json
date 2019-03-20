@@ -64,7 +64,7 @@
     "test": "jest",
     "test:cmd": "cat lib/__tests__/test.log | node lib/logtimer.js"
   },
-  "repository": "https://autoscripts@bitbucket.org/autoscripts/logtimer.git",
+  "repository": "https://github.com/afrontend/logtimer.git",
   "jest": {
     "testEnvironment": "node"
   },
