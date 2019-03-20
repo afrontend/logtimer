@@ -4,7 +4,7 @@
 ## Installation
 
 ```sh
-$ npm install -g logtimer
+$ npm install -g @afrontend/logtimer
 ```
 
 ## Usage
