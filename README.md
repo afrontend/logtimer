@@ -10,8 +10,9 @@ $ npm install -g logtimer
 ## Usage
 
 ```sh
+$ adb logcat | logtimer -m "java.*Exception"
 $ adb logcat | logtimer -m chrome
-$ adb logcat | logtimer -d > test.json
+$ logtimer -d > test.json
 $ adb logcat | logtimer -f test.json
 ```
 
