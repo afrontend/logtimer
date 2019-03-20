@@ -1,6 +1,6 @@
 {
   "name": "logtimer",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "check the interval time in the log",
   "homepage": "https://github.com/afronend/logtimer",
   "author": {
@@ -31,7 +31,7 @@
     "jest": "^23.5.0"
   },
   "engines": {
-    "npm": ">= 4.0.0"
+    "node": ">=8.0.0"
   },
   "lint-staged": {
     "*.js": [
@@ -72,8 +72,5 @@
   "dependencies": {
     "cli": "^1.0.1",
     "moment": "^2.24.0"
-  },
-  "engines": {
-    "node": ">=8.0.0"
   }
 }
