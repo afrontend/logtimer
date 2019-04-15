@@ -1,6 +1,5 @@
 [
   {
-    "pattern": "chrome",
-    "description": "chrome"
+    "pattern": "adb"
   }
 ]
