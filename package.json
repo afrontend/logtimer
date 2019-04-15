@@ -1,6 +1,6 @@
 {
   "name": "@afrontend/logtimer",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "check the interval time in the log",
   "homepage": "https://github.com/afronend/logtimer",
   "author": {
