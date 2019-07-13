@@ -70,8 +70,10 @@
   },
   "license": "MIT",
   "dependencies": {
+    "braces": "^3.0.2",
     "cli": "^1.0.1",
     "cosmiconfig": "^5.2.0",
+    "handlebars": "^4.1.2",
     "lodash": "^4.17.14",
     "mem": "^5.1.1",
     "moment": "^2.24.0",
