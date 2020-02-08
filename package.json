@@ -5,7 +5,7 @@
   "homepage": "https://github.com/afronend/logtimer",
   "author": {
     "name": "Bob Hwang",
-    "email": "frontend.wordpress@gmail.com",
+    "email": "autoscripts@gmail.com",
     "url": "https://agvim.wordpress.com/"
   },
   "files": [
@@ -73,7 +73,7 @@
     "braces": "^3.0.2",
     "cli": "^1.0.1",
     "cosmiconfig": "^5.2.0",
-    "handlebars": "^4.1.2",
+    "handlebars": "^4.7.3",
     "lodash": "^4.17.14",
     "mem": "^5.1.1",
     "moment": "^2.24.0",
