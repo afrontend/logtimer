@@ -18,7 +18,7 @@ $ adb logcat | logtimer -f test.json
 
 ## License
 
-MIT © [Bob Hwang](https://agvim.wordpress.com/)
+MIT © [Bob Hwang](https://afrontend.github.io/)
 
 
 [npm-image]: https://badge.fury.io/js/logtimer.svg
